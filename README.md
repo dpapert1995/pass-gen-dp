@@ -7,7 +7,7 @@ password based on user preferences, of lengths 8-128 inclusive.
 ## Built With
 * HTML 
 * CSS
-*Javascript
+* Javascript
 
 
 ## Screenshots
